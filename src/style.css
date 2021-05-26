@@ -1,0 +1,35 @@
+.black-background {
+    background: #404040;
+    min-height: 100vh;
+}
+
+.top-spacing {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.label-size {
+    font-size: 15px !important;
+    color: grey;
+    font-weight: bold;
+}
+
+.white-font-size {
+    font-size: 20px;
+    color: white;
+}
+
+.bottomlabel-size {
+    font-size: 15px;
+    color: #595959;
+    font-weight: bold;
+}
+.sublabel-size {
+    font-size: 13px;
+    color: #595959;
+}
+
+.font-size37-grey {
+    font-size: 37px;
+    color: grey;
+}
